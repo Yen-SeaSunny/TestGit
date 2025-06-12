@@ -1,0 +1,11 @@
+commit da04faafaaebbd19a197c49144abcf4f523a2c00
+Author: Yen-SeaSunny <tnyenkhmt2211049@student.ctuet.edu.vn>
+Date:   Thu Jun 12 17:31:18 2025 +0700
+
+    Add CSS styles for h1 element
+
+commit 5cf54ccbd7ed8b997a70a2853a2dfca24444401d
+Author: Yen-SeaSunny <tnyenkhmt2211049@student.ctuet.edu.vn>
+Date:   Thu Jun 12 17:28:02 2025 +0700
+
+    Add initial HTML structure to index.html
