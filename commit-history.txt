@@ -1,2 +1,0 @@
-da04faa Add CSS styles for h1 element
-5cf54cc Add initial HTML structure to index.html
